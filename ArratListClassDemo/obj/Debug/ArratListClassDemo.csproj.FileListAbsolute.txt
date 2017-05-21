@@ -1,0 +1,6 @@
+C:\Temp\ArratListClassDemo\ArratListClassDemo\bin\Debug\ArratListClassDemo.exe.config
+C:\Temp\ArratListClassDemo\ArratListClassDemo\bin\Debug\ArratListClassDemo.exe
+C:\Temp\ArratListClassDemo\ArratListClassDemo\bin\Debug\ArratListClassDemo.pdb
+C:\Temp\ArratListClassDemo\ArratListClassDemo\obj\Debug\ArratListClassDemo.csprojResolveAssemblyReference.cache
+C:\Temp\ArratListClassDemo\ArratListClassDemo\obj\Debug\ArratListClassDemo.exe
+C:\Temp\ArratListClassDemo\ArratListClassDemo\obj\Debug\ArratListClassDemo.pdb
